@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HMC5883L
+F https://media.digikey.com/pdf/Data%20Sheets/Honeywell%20PDFs/HMC5883L.pdf
+$ENDCMP
+#
+$CMP HSCDTD008A
+F https://tech.alpsalpine.com/prod/e/pdf/sensor/geomagnetic/hscd/hscdtd008a_data.pdf
+$ENDCMP
+#
+#End Doc Library

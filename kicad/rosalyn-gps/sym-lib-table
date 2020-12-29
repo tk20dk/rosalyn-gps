@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rosalyn-gps)(type Legacy)(uri ${KIPRJMOD}/rosalyn-gps.lib)(options "")(descr ""))
+)
