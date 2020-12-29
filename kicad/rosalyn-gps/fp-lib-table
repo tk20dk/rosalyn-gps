@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rosalyn-gps)(type KiCad)(uri ${KIPRJMOD}/rosalyn-gps.pretty)(options "")(descr ""))
+)
